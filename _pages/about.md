@@ -12,7 +12,7 @@ Economics at Wayne State University. Her research lies at the intersection
 of Health Economics, Labor Economics, and Family Economics. She focuses on 
 the impacts of health shocks, family spillover effects, and the role of 
 paid leave policies in the United States. Her work examines the impacts of paid family leave 
-on healthcare utilization among caregivers. Her research employs 
+on children's outcomes and healthcare utilization among caregivers. Her research employs 
 quasi-experimental methods to identify causal policy effects, with 
 implications for the design of family and medical leave policy.
 
